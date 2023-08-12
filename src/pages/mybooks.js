@@ -1,12 +1,12 @@
 import Nav from "@/components/nav";
 
-function Dashboard() {
+function MyBooks() {
 	return (
 		<div>
-			<h1>Dashboard</h1>
+			<h1>My Books</h1>
 			<Nav />
 		</div>
 	);
 }
 
-export default Dashboard;
+export default MyBooks;

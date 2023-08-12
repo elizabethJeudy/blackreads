@@ -1,12 +1,12 @@
 import Nav from "@/components/nav";
 
-function Dashboard() {
+function Genres() {
 	return (
 		<div>
-			<h1>Dashboard</h1>
+			<h1>Genres</h1>
 			<Nav />
 		</div>
 	);
 }
 
-export default Dashboard;
+export default Genres;

@@ -11,13 +11,13 @@ function Nav() {
 	return (
 		<nav>
 			<ul>
-				<Link href="/">
+				<Link href="/dashboard">
 					<li>Dashboard</li>
 				</Link>
-				<Link href="/">
+				<Link href="/mybooks">
 					<li>My Books</li>
 				</Link>
-				<Link href="/">
+				<Link href="/genres">
 					<li>Browse Genres</li>
 				</Link>
 			</ul>
