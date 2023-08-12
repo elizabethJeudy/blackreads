@@ -6,7 +6,7 @@ function Home() {
 	return (
 		<div>
 			<nav>
-				<h2>book worm</h2>
+				<h2>black reads logo</h2>
 			</nav>
 			<form>
 				<label htmlFor="email">Email Address:</label>
@@ -20,7 +20,7 @@ function Home() {
 				/>
 
 				<button type="submit">
-					<Link href="/dashboard">Login</Link>
+					<Link href="/home">Login</Link>
 				</button>
 			</form>
 			<Link href="/signup">Signup</Link>

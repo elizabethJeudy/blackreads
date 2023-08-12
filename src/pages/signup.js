@@ -15,7 +15,7 @@ function Signup() {
 			<label htmlFor="password">Password</label>
 			<input type="password" placeholder="Enter your password" required />
 			<button type="submit">
-				<Link href="/dashboard">Create account</Link>
+				<Link href="/home">Create account</Link>
 			</button>
 		</form>
 	);
