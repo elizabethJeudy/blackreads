@@ -24,6 +24,8 @@ function Home() {
 				</button>
 			</form>
 			<Link href="/signup">Signup</Link>
+			<br />
+			<Link href="/">Sign in with Google</Link>
 		</div>
 	);
 }
