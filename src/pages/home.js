@@ -10,3 +10,11 @@ function Home() {
 }
 
 export default Home;
+
+/**
+ * displays recommendations 
+ * reading challenge? 
+ * want to read snippet 
+ * currently reading, update progress 
+
+ */
